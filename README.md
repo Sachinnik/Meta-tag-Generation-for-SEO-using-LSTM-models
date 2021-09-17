@@ -1,5 +1,6 @@
-# Data-Mining-and-Machine-Learning-2
+# Meta-tag Generation for SEO using LSTM models
 Masters of Science (Data Analytics) - Semester 2 project
+Subject : Data Mining and Machine Learning 2
 The folders are organized as follows:
 
 1.	Data Gathering folder:
